@@ -117,8 +117,10 @@ padding-bottom: 80px ;
 
 .extra{
     padding: 50px;
-    background: rgba(39, 39, 39, 0.05);
-   
+    background: rgba(39, 39, 39, 0.05); 
+    margin-bottom: 70px;
+    margin-left: 215px;
+    margin-right: 215px;
 }
 .service-img{
     display: flex;
