@@ -26,7 +26,7 @@
     padding-right: 180px;
 
 }
-.shop-now{
+.shop-now-btn{
     position: absolute;
     top: 47%;
     right:76%;
@@ -36,3 +36,161 @@
     color: white;
     font-weight: bolder;
 }
+
+/* Featured Section */
+
+.featured{
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.featured-title{
+    font-size: 39px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-style: normal;
+line-height: normal;
+padding-bottom: 13px;
+}
+
+.title-P{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+padding-bottom: 80px ;
+}
+
+
+.featured-images{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 10px;
+}
+
+.box-1{
+   
+    height: 250px ;
+    width: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(235, 113, 172, 0.342);
+    padding: 15px;
+    padding-top: 60px;
+}
+
+.box-2{
+    height: 250px ;
+    width: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background:rgba(5, 151, 160, 0.15);
+    padding: 15px;
+    padding-top: 60px;
+
+}
+
+.box-3{
+    height: 250px ;
+    width: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(92, 150, 65, 0.433);
+    padding: 15px;
+    padding-top: 60px;
+}
+
+.flower-text{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+    padding-bottom: 70px;
+}
+
+
+
+/* Extra section */
+
+.extra{
+    padding: 50px;
+    background: rgba(39, 39, 39, 0.05);
+   
+}
+.service-img{
+    display: flex;
+    justify-content:space-around;
+   
+}
+
+.service-tag{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 50px;
+    padding-top: 10px;
+   
+}
+/* Offer Section */
+
+
+
+.sign-up-btn{
+    position: absolute;
+    right:42%;
+    border-radius: 20px;
+    padding: 10px 33px ;
+    background: #E55473;
+    color: white;
+    font-weight: bolder;
+}
+
+.banner-offer{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 20px;
+
+}
+
+/* Social */
+
+.social{
+    padding: 10px;
+    padding-bottom: 80px;
+}
+
+
+.Last{
+
+    background-image: url('/Rectangle\ 9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 240px;
+    padding-top: 60px;
+    background-size: contain;
+    
+}
+
+.input{
+text-align: center;
+
+}
+
+.in1{
+    padding: 2px ;
+    width: 380px;
+    height: 40px;
+}
+
+.in2{
+    border-radius: 8px;
+background: #E55473;
+padding: 16px 28px;
+color: white;
+font-size: 16px;
+}
+
