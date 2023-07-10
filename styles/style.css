@@ -216,15 +216,14 @@ color: white;
 
 
 .mine{
-
+    display: block;
     background-color: rgba(238, 184, 21, 0.226);
     text-align: center; 
     margin-bottom: 50px;
     margin-left: 215px;
     margin-right: 215px;
-    border: solid black ;
-   
-    
+    border: solid black; 
+    border-radius: 20px;  
     
 }
 .own{
